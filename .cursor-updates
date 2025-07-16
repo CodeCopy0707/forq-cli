@@ -1,4 +1,4 @@
-# Forq CLI Updates
+# Forq CLI Updatess
 
 - Implemented CLI interface with commander, including basic REPL command and help system.
 - Created interactive REPL implementation with readline, supporting basic commands (/help, /clear, /exit).
